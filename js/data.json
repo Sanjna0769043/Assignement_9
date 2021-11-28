@@ -1,0 +1,16 @@
+
+[	
+	{"name": "Captain America", "weapons":"Vibranium shield", "power":"Super-Soldier", "created":"1941-08-22"},
+	{"name": "Black Panther", "weapons":"Energy dagger", "power":"King", "created":"1966-09-12"},
+	{"name": "Groot", "weapons":"His powers", "power":"generate flowers", "created":"1960-07-18"},
+	{"name": "Hawkeye", "weapons":"Bows and arrows", "power":"Assassin", "created":"1964-05-10"},
+	{"name": "Black Widow", "weapons":"Taser disks", "power":"martial artist", "created":"1964-09-14"},
+	{"name": "Star-Lord", "weapons":"Element Gun", "power":"space travel", "created":"1976-02-11"},
+	{"name": "Wolverine", "weapons":"Adamantium claws", "power":"indestructible skeleton", "created":"1974-03-16"},
+	{"name": "Iron Man", "weapons":"Repulsor rays", "power":"Genius-level intellect", "created":"1963-04-25"},
+	{"name": "Scarlet Witch", "weapons":"Her powers", "power":"telepathy", "created":"1964-07-25"},
+	{"name": "Vision", "weapons":"Mind Stone", "power":"Superhuman strength", "created":"1968-09-28"},
+	{"name": "Hulk", "weapons":"strength", "power":"Strength", "created":"1962-05-21"}
+]
+
+
